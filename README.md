@@ -4,6 +4,10 @@ A multi-page café website built using HTML and CSS, featuring a coffee-inspired
 
 **[View Live Website](https://elshf7165.github.io/cafe-website/)**
 
+## Website Preview
+
+![Feans Coffee Homepage](homepage.png)
+
 ## About the Project
 
 Feans Coffee is a frontend web development project designed to showcase a fictional café through a visually engaging website.
