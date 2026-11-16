@@ -58,6 +58,21 @@ No additional installations are required.
 - `webstyle.css` — Website styling
 - Image files — Website graphics and photographs
 
+## Future Improvements 🌱
+
+Feans Coffee is a project I want to continue growing beyond its original assignment requirements. As I learn more about web development, I hope to revisit the website and bring more of my ideas to life.
+
+Some improvements I'd love to explore include:
+
+- [ ] Making the website fully responsive across different screen sizes
+- [ ] Adding interactive elements using JavaScript
+- [ ] Improving animations and transitions
+- [ ] Expanding the menu with more products and categories
+- [ ] Improving accessibility and the overall user experience
+- [ ] Continuing to experiment with new layouts and design ideas
+
+I'm excited to see how this project evolves as my programming and design skills grow!
+
 ## Author
 
 Fatima Elsheikh
